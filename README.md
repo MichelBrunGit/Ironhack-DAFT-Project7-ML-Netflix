@@ -92,8 +92,8 @@ Group 6:
 - '1. Netflix.csv with clean and encoded data
 - '2. Netflix.ipynb' with all code concerning data cleaning and modelling
 - '3. Slides/dashboard/notebook with must-have EDA, each model description (how it works, what the parameters are, what exectly you used) and results (for each model and final table with models comparison).
-- '4. Please state the conclusion about usability of each model.
-- '5. Trello board with logged time.
+- '4. Please state the conclusion about usability of each model : None of the models tested are usable for this project
+- '5. Trello board with logged time : https://trello.com/b/yhQlANKS/project-7-group-2
 
 ## Time expectations
 - Data cleaning 2 hours 
